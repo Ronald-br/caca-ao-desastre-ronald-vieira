@@ -91,7 +91,7 @@ Algumas medidas poderiam ter reduzido o risco dos acidentes:
 
 Durante a pesquisa inicial, a IA foi utilizada para levantar informações sobre os acidentes, o MCAS, suas causas e os impactos do caso.
 
-A primeira resposta da IA apresentou informações gerais corretas sobre as datas dos acidentes, quantidade de vítimas e envolvimento do MCAS. Essas informações foram posteriormente comparadas com fontes oficiais.
+A IA apresentou uma explicação resumida do caso, mas algumas relações de causa e efeito precisaram ser verificadas nas fontes oficiais. A consulta às fontes mostrou que não é adequado tratar o MCAS como a única causa dos acidentes, pois existiram também fatores relacionados aos sensores, projeto, alertas, resposta da tripulação, treinamento e processo de certificação.
 
 Porém, algumas informações apresentadas pela IA precisaram de cuidado porque eram generalizações. Por exemplo, afirmar simplesmente que "o MCAS causou os acidentes" é uma simplificação. As investigações indicam uma combinação de fatores técnicos, humanos e relacionados aos processos de segurança.
 
