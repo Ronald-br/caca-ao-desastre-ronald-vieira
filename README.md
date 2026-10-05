@@ -56,6 +56,16 @@ Essas falhas mostram que a qualidade não depende apenas do produto final, mas t
 
 ## 5. Impactos
 
+Os acidentes causaram grandes impactos humanos, técnicos, econômicos e na imagem da Boeing e do modelo 737 MAX.
+
+- **Impacto humano:** 346 pessoas morreram nos dois acidentes.
+- **Impacto na aviação:** o Boeing 737 MAX foi retirado temporariamente de operação em diversos países.
+- **Impacto econômico:** companhias aéreas, fabricantes e outros setores envolvidos tiveram prejuízos relacionados à paralisação das aeronaves e às mudanças necessárias.
+- **Impacto na empresa:** a Boeing passou por críticas e investigações relacionadas ao projeto, à certificação e aos processos de segurança do 737 MAX.
+- **Impacto na segurança:** os acidentes levaram à revisão de procedimentos, treinamentos e processos de avaliação de segurança das aeronaves.
+
+O caso mostrou como falhas em um sistema crítico podem gerar consequências muito maiores quando não são identificadas e corrigidas de forma adequada.
+
 ## 6. Lições aprendidas
 
 ## 7. Fontes
