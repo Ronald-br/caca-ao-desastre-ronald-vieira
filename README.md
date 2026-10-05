@@ -18,7 +18,7 @@ euvering Characteristics Augmentation System)
 
 2. O voo Ethiopian Airlines 302 caiu em 10 de março de 2019, na Etiópia, causando 157 mortes.
 
-3. Os dois acidentes envolveram aeronaves Boeing 737 MAX 8.
+3. 3. Os dois acidentes envolveram aeronaves Boeing 737 MAX 8. **[Fonte: NTSB]**
 
 4. O sistema MCAS teve papel importante na sequência dos dois acidentes.
 
