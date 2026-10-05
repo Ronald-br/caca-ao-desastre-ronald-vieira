@@ -14,9 +14,9 @@ euvering Characteristics Augmentation System)
 
 ### Afirmações verificadas
 
-1. O voo Lion Air 610 caiu em 29 de outubro de 2018, na Indonésia, causando 189 mortes.
+1. 1. O voo Lion Air 610 caiu em 29 de outubro de 2018, na Indonésia, causando 189 mortes. **[Fonte: NTSB]**
 
-2. O voo Ethiopian Airlines 302 caiu em 10 de março de 2019, na Etiópia, causando 157 mortes.
+ 2. O voo Ethiopian Airlines 302 caiu em 10 de março de 2019, na Etiópia, causando 157 mortes. **[Fonte: NTSB]**
 
 3. Os dois acidentes envolveram aeronaves Boeing 737 MAX 8. **[Fonte: NTSB]**
 
@@ -24,8 +24,7 @@ euvering Characteristics Augmentation System)
 
 5. Os pilotos enfrentaram dificuldades para identificar e controlar as condições relacionadas ao funcionamento do MCAS. **[Fonte: NTSB]**
 
-6. Após os acidentes, foram identificadas necessidades de mudanças relacionadas à segurança, treinamento, procedimentos e avaliação dos sistemas da aeronave.
-
+6. 6. Após os acidentes, foram identificadas necessidades de mudanças relacionadas à segurança, treinamento, procedimentos e avaliação dos sistemas da aeronave. **[Fonte: NTSB]**
 ## 4. Falhas de qualidade
 
 ## 5. Impactos
