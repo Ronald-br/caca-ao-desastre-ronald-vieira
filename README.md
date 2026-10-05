@@ -103,8 +103,9 @@ A principal conclusão da checagem foi que a IA ajudou na pesquisa inicial, mas 
 
 ## 7. Fontes
 
-- NATIONAL TRANSPORTATION SAFETY BOARD (NTSB). **Boeing 737 MAX 8 accident investigations and safety recommendations**. Disponível em: https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx. Acesso em: 5 out. 2026.
 
-- FEDERAL AVIATION ADMINISTRATION (FAA). **Boeing 737 MAX Return to Service**. Disponível em: https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf. Acesso em: 5 out. 2026.
+* NATIONAL TRANSPORTATION SAFETY BOARD (NTSB). **Investigation of Lion Air Flight 610 and Ethiopian Airlines Flight 302**. Disponível em: https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx. Acesso em: 5 out. 2026.
 
-- ETHIOPIAN CIVIL AVIATION AUTHORITY (ECAA). **Ethiopian Airlines Flight ET302 accident investigation information**. Disponível em: https://www.ecaa.gov.et/. Acesso em: 5 out. 2026.
+* FEDERAL AVIATION ADMINISTRATION (FAA). **Summary of the FAA’s Review of the Boeing 737 MAX**. Disponível em: https://www.faa.gov/sites/faa.gov/files/2022-08/737_RTS_Summary.pdf. Acesso em: 5 out. 2026.
+
+* ETHIOPIA. AIRCRAFT ACCIDENT INVESTIGATION BUREAU. **Investigation Report on Accident to the B737-MAX8 Reg. ET-AVJ Operated by Ethiopian Airlines**. 23 dez. 2022. Disponível em: https://bea.aero/fileadmin/user_upload/ET_302__B737-8MAX_ACCIDENT_FINAL_REPORT.pdf. Acesso em: 5 out. 2026.
