@@ -82,3 +82,14 @@ Entre as principais lições estão:
 A principal lição é que a prevenção de problemas deve fazer parte de todo o processo de desenvolvimento. Corrigir uma falha depois de um acidente pode ser muito mais grave e custoso do que identificar e tratar o risco durante o desenvolvimento.
 
 ## 7. Fontes
+
+## 7. Fontes
+
+- National Transportation Safety Board (NTSB). Investigação e recomendações relacionadas aos acidentes do Boeing 737 MAX.
+  https://www.ntsb.gov/investigations/Pages/DCA19RA017-DCA19RA101.aspx
+
+  - Federal Aviation Administration (FAA). Boeing 737 MAX e informações relacionadas à segurança e à certificação da aeronave.
+  https://www.faa.gov/
+
+- Ethiopian Civil Aviation Authority (ECAA). Informações e investigação relacionada ao acidente do voo Ethiopian Airlines 302.
+  https://www.ecaa.gov.et/
