@@ -32,7 +32,27 @@ As investigações identificaram a participação do sistema MCAS na sequência 
 5. Os pilotos enfrentaram dificuldades para identificar e controlar as condições relacionadas ao funcionamento do MCAS. **[Fonte: NTSB]**
 
 6. 6. Após os acidentes, foram identificadas necessidades de mudanças relacionadas à segurança, treinamento, procedimentos e avaliação dos sistemas da aeronave. **[Fonte: NTSB]**
+  
+### Principais causas
+
+Os acidentes estiveram relacionados a uma combinação de fatores. Entre eles, problemas no funcionamento e na avaliação do sistema MCAS, informações insuficientes sobre o sistema para os pilotos e dificuldades para lidar com as condições apresentadas durante os voos.
+
+Também foram identificadas questões relacionadas ao projeto e à avaliação de segurança do sistema, além de aspectos de treinamento e procedimentos para os pilotos.
+
+Dessa forma, o desastre não pode ser explicado por apenas uma falha. Ele envolveu uma combinação de problemas técnicos, humanos e relacionados aos processos de segurança.
+      
 ## 4. Falhas de qualidade
+
+
+As principais falhas de qualidade identificadas no caso foram:
+
+- **Falha na avaliação de segurança:** o comportamento do sistema MCAS não foi avaliado de forma suficiente em todas as situações que poderiam ocorrer durante o voo.
+- **Falha de comunicação:** informações importantes sobre o funcionamento do MCAS não foram apresentadas de forma adequada aos pilotos.
+- **Falha de treinamento:** os pilotos não receberam treinamento suficiente sobre o funcionamento e os possíveis efeitos do sistema.
+- **Falha no projeto:** o sistema dependia de informações de sensores e poderia provocar comandos automáticos que dificultavam o controle da aeronave.
+- **Falha no processo de segurança:** problemas relacionados ao sistema não foram identificados e tratados de maneira suficiente antes dos acidentes.
+
+Essas falhas mostram que a qualidade não depende apenas do produto final, mas também do projeto, dos testes, da documentação, do treinamento e dos processos utilizados para garantir a segurança.
 
 ## 5. Impactos
 
