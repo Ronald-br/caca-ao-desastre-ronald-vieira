@@ -20,7 +20,7 @@ euvering Characteristics Augmentation System)
 
 3. 3. Os dois acidentes envolveram aeronaves Boeing 737 MAX 8. **[Fonte: NTSB]**
 
-4. O sistema MCAS teve papel importante na sequência dos dois acidentes.
+4. 4. O sistema MCAS teve papel importante na sequência dos dois acidentes. **[Fonte: NTSB]**
 
 5. Os pilotos enfrentaram dificuldades para identificar e controlar as condições relacionadas ao funcionamento do MCAS.
 
