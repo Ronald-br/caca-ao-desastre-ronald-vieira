@@ -68,4 +68,17 @@ O caso mostrou como falhas em um sistema crítico podem gerar consequências mui
 
 ## 6. Lições aprendidas
 
+O caso do Boeing 737 MAX mostra que a qualidade precisa estar presente durante todo o desenvolvimento de um produto, principalmente quando ele envolve sistemas que podem afetar vidas.
+
+Entre as principais lições estão:
+
+- Realizar testes e avaliações de segurança de forma completa.
+- Identificar possíveis riscos antes que o produto seja utilizado.
+- Garantir que os usuários recebam informações claras sobre sistemas importantes.
+- Oferecer treinamento adequado para situações de emergência.
+- Manter uma comunicação eficiente entre desenvolvedores, fabricantes, órgãos reguladores e usuários.
+- Não depender de uma única informação ou sensor em sistemas críticos sem considerar possíveis falhas.
+
+A principal lição é que a prevenção de problemas deve fazer parte de todo o processo de desenvolvimento. Corrigir uma falha depois de um acidente pode ser muito mais grave e custoso do que identificar e tratar o risco durante o desenvolvimento.
+
 ## 7. Fontes
